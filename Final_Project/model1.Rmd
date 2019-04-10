@@ -2,7 +2,7 @@
 title: "Final_Project_Lin_Yiqi"
 author: "Regina Lin"
 date: "12/1/2018"
-output: html_document
+output: github_document
 ---
 
 Dateset

@@ -2,7 +2,7 @@
 title: "Model for Casual_OLS_1210"
 author: "Eric, Xiaoning Liu, 20560202"
 date: "December 10, 2018"
-output: html_document
+output: github_document
 ---
 Import the Dataset
 ```{r}

@@ -2,7 +2,7 @@
 title: "Untitled"
 author: "Regina Lin"
 date: "12/3/2018"
-output: html_document
+output: github_document
 ---
 
 ---
